@@ -130,14 +130,14 @@ Azure OpenAI provides a web-based portal named Azure OpenAI Studio, that you can
 
 1. On the **Deploy model gpt-4o** and enter the following details:
 
-    - Deployment name: **text-turbo(1)**
+    - Deployment name: **gpt-4o(1)**
     - Deployment type: **Standard(2)**
     - Model version: **select the 2024-05-13 (Default) (3)**
     - Tokens per Minute Rate Limit (thousands): **20K (4)**
     - Enable dynamic quota: **Enabled (5)**
     - Click on **Deploy (6)**
   
-      ![](../media/h5.png)
+      ![](../media/h5-new.png)
 
       >**Note:** If the **Customize** option doesn't appear, you can directly enter the model deployment details. 
 
